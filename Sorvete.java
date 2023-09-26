@@ -19,5 +19,8 @@ public class Sorvete {
         } else {
             System.out.println("você tem direito a um desconto de 5%");
         }
+        if (sabor==2){
+        System.out.println("você não tem nenhum desconto!");
+        }
     }
 }

@@ -5,7 +5,7 @@ public class Ordem {
         double n1=0.0, n2=0.0, n3 = 0.0;
 
         Scanner s = new Scanner(System.in);
-
+        
         System.out.println("Digite o 1 número: ");
         n1 = s.nextDouble();
         
